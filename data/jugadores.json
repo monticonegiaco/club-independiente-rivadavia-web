@@ -1,0 +1,13 @@
+[
+{"id": 1, "nombre": "Macagno Ramiro", "posicion": "Portero", "nacionalidad": "Argentina", "edad": 29, "imagen": "/nosotros/1-macagno-ramiro.webp"},
+{"id": 2, "nombre": "Bolcato Nicolás", "posicion": "Defensor", "nacionalidad": "Argentina", "edad": 31, "imagen": "/nosotros/2-bolcato-nicolas.png"},
+{"id": 3, "nombre": "Arena Nahuel", "posicion": "Defensor", "nacionalidad": "Argentina", "edad": 35, "imagen": "/nosotros/3-arena-nahuel.webp"},
+{"id": 4, "nombre": "Villalba Iván", "posicion": "Defensor", "nacionalidad": "Argentina", "edad": 28, "imagen": "/nosotros/4-villalba-ivan.png"},
+{"id": 5, "nombre": "Osella Alejo", "posicion": "Defensor", "nacionalidad": "Argentina", "edad": 25, "imagen": "/nosotros/5-osella-alejo.png"},
+{"id": 6, "nombre": "Elordi Juan", "posicion": "Mediocampista", "nacionalidad": "Argentina", "edad": 34, "imagen": "/nosotros/6-elordi-juan.webp"},
+{"id": 7, "nombre": "Gómez Luciano", "posicion": "Mediocampista", "nacionalidad": "Argentina", "edad": 29, "imagen": "/nosotros/7-gomez-luciano.png"},
+{"id": 8, "nombre": "Bonifacio Ezequiel", "posicion": "Mediocampista", "nacionalidad": "Argentina", "edad": 31, "imagen": "/nosotros/8-bonifacio-ezequiel.webp"},
+{"id": 9, "nombre": "Muro Tomás", "posicion": "Delantero", "nacionalidad": "Argentina", "edad": 28, "imagen": "/nosotros/9-muro_tomas.webp"},
+{"id": 10, "nombre": "Ríos Gonzalo", "posicion": "Delantero", "nacionalidad": "Argentina", "edad": 30, "imagen": "/nosotros/10-rios_gonzalo.png"},
+{"id": 11, "nombre": "Sequeira Luis", "posicion": "Delantero", "nacionalidad": "Argentina", "edad": 28, "imagen": "/nosotros/11-sequeira_luis.png"}
+]

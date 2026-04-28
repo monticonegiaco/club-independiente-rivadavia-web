@@ -40,9 +40,9 @@ Trabajo práctico aprobado. Mejoras planeadas a futuro:
 
 ## Autor
 
-Monticone Giaco --
+Monticone Giaco 
 
-www.linkedin.com/in/giaco-monticone/ -- 
+www.linkedin.com/in/giaco-monticone/  
 
 https://github.com/monticonegiaco/
 
